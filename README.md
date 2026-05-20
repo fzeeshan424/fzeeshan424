@@ -1,4 +1,4 @@
-## Hi, I'm Fabiha Z. A current Sophmore at the University of Arizona majoring in Data Science with an emphasis on Molecular and cellular biology. 
+#Hi, I'm Fabiha Z. A current Sophmore at the University of Arizona majoring in Data Science with an emphasis on Molecular and cellular biology. 
 
 <!--
 **fzeeshan424/fzeeshan424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
